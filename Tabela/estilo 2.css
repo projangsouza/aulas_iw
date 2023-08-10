@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; /* tipo da fonte */
+}
+
+table {
+    width: 500px; /*Tamanho da tabela*/
+    border-collapse: collapse; /*Elimina espaço entre as celulas*/
+}
+
+th, td {
+    border: 1px solid black;/*Espeçura e estilo da borda da tabela*/
+    padding: 10px;/*Distancia entre conteudos e as bordas*/
+}
