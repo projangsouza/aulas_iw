@@ -37,3 +37,24 @@ nav ul li ul {
     top: -5000px;
     position: absolute;
 }
+
+nav ul li:hover ul{
+    left: 0%;
+    top: 30px;
+}
+
+nav ul li ul li{
+    width: 300px;
+    border-bottom: 1px solid white;
+}
+
+nav ul li ul li a{
+    padding: 10px;
+}
+
+nav ul li ul li a:hover{
+    background-color: white;
+    color: black;
+}
+
+
